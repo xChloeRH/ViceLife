@@ -1,0 +1,263 @@
+{
+  "rules": [
+    {
+      "title": "§ 1. Allgemein",
+      "rules": [
+        {
+          "paragraph": "§1.1 - Sprache im RP",
+          "description": "Deutsch ist Pflicht, einzelne Wörter in anderen Sprachen sind erlaubt, solange diese nicht beleidigend sind.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.2 - Metagaming",
+          "description": "Kein Metagaming, keine Informationen von außerhalb des Charakters dürfen genutzt werden. (OOC)",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.3 - Trolling und Baiting",
+          "description": "Trolling oder Baiting ist verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.4 - Sprachaufzeichnung",
+          "description": "Spieler erklären sich einverstanden, dass ihre Stimme aufgezeichnet wird.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.5 - Situations-Pflicht",
+          "description": "Auch bei Regelverstößen sollten alle Beteiligten die Situation weiterführen.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.6 - Cheating",
+          "description": "Das Benutzen von Programmen oder Dateien, welche einen Vorteil verschaffen, ist verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": "Bann: Permanent "
+          }
+        },
+        {
+          "paragraph": "§1.7 - Moderation",
+          "description": "Gespräche mit Teamlern dürfen ohne triftigen Grund nicht aufgezeichnet werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.8 - Soundboard und Stimmverzerrer",
+          "description": "Soundboard und Stimmverzerrer dürfen nur mit Absprache verwendet werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§1.9 - OOC Talk",
+          "description": "Es ist verboten, im RP OOC-Gespräche zu führen.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        }
+      ]
+    },
+    {
+      "title": "§ 2. Verhalten",
+      "rules": [
+        {
+          "paragraph": "§2.1 - Fraktionsmitglied ausgeben",
+          "description": "Sich als ein Fraktionsmitglied auszugeben, ist verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.2 - Verbotene Kleidung und Aussehen",
+          "description": "Fraktions Kleidung und verbuggte Kleidung ohne Grund sind verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.3 - Provokationen durch Apps",
+          "description": "Nachrichten auf dem Handy zur Provokation sind verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.4 - Gewalt im Zellentrakt",
+          "description": "In einer Zelle darf ohne triftigen Grund keine Gewalt angewendet werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.5 - Random Deathmatch",
+          "description": "Das Angreifen oder Töten ohne RP-Hintergrund ist verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.6 - Vehicle Deathmatch",
+          "description": "Das Anfahren oder Überfahren ohne RP-Hintergrund ist verboten.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.7 - Fail RP",
+          "description": "Man sollte keine unrealistischen Aktionen durchführen.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.8 - Drive by",
+          "description": "Es sollte nicht ohne aktiven Schusswechsel von außen aus einem Fahrzeug geschossen werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§2.9 - Power-RP",
+          "description": "Einem Spieler sollte immer eine realistische Wahl bleiben.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        }
+      ]
+    },
+    {
+      "title": "§ 3. Charakter",
+      "rules": [
+        {
+          "paragraph": "§3.1 - Namen und Titel",
+          "description": "Verbotene Namen und Titel im Charaktername.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§3.2 - Geschlechtsidentitäten",
+          "description": "Transgender und nichtbinäre Geschlechtsidentitäten müssen beantragt werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        }
+      ]
+    },
+    {
+      "title": "§ 4. Situationen",
+      "rules": [
+        {
+          "paragraph": "§4.1 - Hinrichtungen und Suizide",
+          "description": "Hinrichtungen oder Suizide nur mit starkem RP-Hintergrund erlaubt.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        }
+      ]
+    },
+    {
+      "title": "§ 5. Crime",
+      "rules": [
+        {
+          "paragraph": "§5.1 - Raubüberfälle",
+          "description": "Raubüberfälle dürfen erst ab einer Spielerzahl von 15 gestartet werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§5.2 - Geiselnahme",
+          "description": "Bei einer Geiselnahme dürfen maximal 3 Personen als Geisel genommen werden.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§5.3 - Ausrauben eines Spielers",
+          "description": "Ausrauben eines Spielers nur mit RP-Hintergrund.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§5.4 - Zinken auf illegalen Routen",
+          "description": "Zinken auf illegalen Routen ist erlaubt, aber nur direkt am Sammler, Verarbeiter oder Käufer.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        },
+        {
+          "paragraph": "§5.5 - Gefangenenbefreiung",
+          "description": "Gefangenenbefreiung ist erst ab 3 „Befreier“ Personen erlaubt.",
+          "penalties": {
+            "jail": "10-30 min",
+            "work": "15-50 Einheiten",
+            "ban": " "
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+/* Styles specifically for the keyboard layout */
+
+.keyboard {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.key, .key-all, .key-fra, .key-gta, .key-wide, .key-shift, .key-caps, .key-enter, .key-tab, .key-space {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #444;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    border-radius: 5px;
+    margin: 0 2px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 3px 0 #222;
+    cursor: pointer;
+    user-select: none;
+}
+
+.key-all {
+    background-color: #00aeff;
+}
+
+.key-fra {
+    background-color: #c300ff;
+}
+
+.key-gta {
+    background-color: #e69500;
+}
+
+.key-wide {
+    width: 60px;
+}
+
+.key-shift, .key-caps, .key-enter, .key-tab, .key-space {
+    background-color: #888;
+}
+
+.key-space {
+    flex-grow: 2;
+}
+
+.key-wide, .key-enter, .key-shift, .key-caps, .key-tab {
+    flex-grow: 1.5;
+}
